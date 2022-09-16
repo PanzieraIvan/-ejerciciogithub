@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: cornflowerblue;
+    text-align: center;
+    
+}
+    
+    
+h1{
+    
+    color: yellowgreen;
+    background-color: darkgreen;
+    padding: 40px;
+    margin: 20px;
+    border: solid black 2px;
+    border-radius: 15px;
+}
+section{
+    color: antiquewhite;
+    padding: 60px;
+    
+    
+}
+.section1{
+    background-color: rgba(4, 4, 168, 0.493);
+    margin: 50px;
+    border: double  rgb(161, 0, 0) 7px;
+}
+.section1 p{
+    margin: 40px;
+}
+
+.section2{
+    background-color: rgba(21, 110, 80, 0.301);
+    margin: 30px;
+    border: white 3px dashed ;
+}
+.section2 p{
+    margin: 30px;
+}
+footer{
+    background-color: rgba(0, 0, 0, 0.699);
+    color: rgb(161, 161, 161);
+
+    padding: 10px;
+    margin: 20px;
+    box-shadow: darkgrey 2px ;
+}
